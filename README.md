@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prosantosgui
-- 👀 I’m interested in work on some front-end projects
-- 🌱 I’m currently learning Spring boot and servlets
-- 💞️ I’m looking to collaborate on some project remotely
+- 👀 I’m interested in work on learn more about java.
+- 🌱 I’m currently learning Java and Python.
+- 💞️ Working as trainee at a nice place
 - 📫 How to reach me: You can text me on my linked in profile here at https://www.linkedin.com/in/guilherme-dos-santoss/
 
 <!---
