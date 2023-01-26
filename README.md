@@ -13,7 +13,7 @@ ENG
 - 👀 I’m interested in work on and learn more about Java and Angular.
 - 🌱 I’m currently learning Kotlin for Android application development
 - 💞️ Currently searching for a job with Java or Kotlin(Android)
-- 📫 How to reach me: You can text me on my linkedIn profile here at https://www.linkedin.com/in/guilherme-dos-santoss/
+- 📫 How to reach me: You can text me on my linkedIn profile here at: https://www.linkedin.com/in/guilherme-dos-santoss/
 
 <!---
 Prosantosgui/Prosantosgui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
