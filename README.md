@@ -1,7 +1,7 @@
 
 - 👋 Olá, sou @Prosantosgui
 - 👀 Estou interessado em trabalhar e aprender mais sobre Java e Angular.
-- 😀 Inglês avançado 
+- 😀 Inglês avançado(B2-C1)
 - 🌱 Atualmente aprendendo kotlin para desenvolvimento de aplicações Android
 - 💞️ Atualmente a procura de vagas em Java ou Kotlin(android)
 - 📫 Como chegar até mim: Você pode me enviar uma mensagem no meu perfil linkedIn aqui: https://www.linkedin.com/in/guilherme-dos-santoss/
@@ -9,7 +9,7 @@
 
 ENG 
 - 👋 Hi, I’m @Prosantosgui
-- 😀 Advanced English
+- 😀 Advanced English(B2-C1)
 - 👀 I’m interested in work on and learn more about Java and Angular.
 - 🌱 I’m currently learning Kotlin for Android application development
 - 💞️ Currently searching for a job with Java or Kotlin(Android)
