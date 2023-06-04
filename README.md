@@ -1,5 +1,5 @@
 
-- 👋 Olá, sou @Prosantosgui
+- 👋 Olá, sou Guilherme dos Santos @Prosantosgui
 - 👀 Estou interessado em trabalhar e aprender mais sobre Java e Kotlin.
 - 😀 Inglês avançado(B2-C1)
 - 🌱 Atualmente aprendendo kotlin para desenvolvimento de aplicações Android
@@ -8,7 +8,7 @@
 
 
 ENG 
-- 👋 Hi, I’m @Prosantosgui
+- 👋 Hi, I’m Guilherme dos Santos @Prosantosgui
 - 😀 Advanced English(B2-C1)
 - 👀 I’m interested in work on and learn more about Java and Kotlin
 - 🌱 I’m currently learning Kotlin for Android application development
