@@ -1,4 +1,17 @@
 
+<h1>Hi👋, I am Guilherme </h1>
+<p>Work in the software development area as a Fullstack Developer. I am a music lover, bookstan plus currently enjoying using Java with Spring framework on my personal projects</p>
+
+
+<h2>Contact</h2>
+
+<h2>💻Technologies and Tools🛠</h2>
+<img src="{https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white}" /> <img src="{https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white}" /> <img src="{https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black}" /> <img src="{https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white}" /> <img src="{https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white}" /> <img src="{https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white}" /> <img src="{https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white}" /> <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" /> <img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" /> <img src="{https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white}" /> <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" /> <img src="{}" /> <img src="{}" /> <img src="{}" />
+
+
+<h2>🎖Github Stats</h2>
+<img src="{https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Prosantosgui}}">
+
 - 👋 Olá, sou Guilherme dos Santos @Prosantosgui
 - 👀 Estou interessado em trabalhar e aprender mais sobre Java e Kotlin.
 - 😀 Inglês avançado(B2-C1)
