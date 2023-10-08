@@ -11,13 +11,15 @@
 </code>
 
 <h2>🎖Github Stats</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Prosantosgui" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prosantosgui&layout=donut&langs_count=8&card_width=320&exclude_repo=curso-jsp" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prosantosgui&layout=donut&langs_count=8&card_width=600&exclude_repo=curso-jsp" />
 </a>
 
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
 
 - 👋 Olá, sou Guilherme dos Santos @Prosantosgui
 - 👀 Estou interessado em trabalhar e aprender mais sobre Java e Kotlin.
