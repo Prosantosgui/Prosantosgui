@@ -11,10 +11,12 @@
 </code>
 
 <h2>🎖Github Stats</h2>
-
-[![Prosantosgui](https://github-readme-stats.vercel.app/api?username=Prosantosgui&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Prosantosgui](https://github-readme-stats.vercel.app/api/top-langs/?username=Prosantosgui&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Prosantosgui" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prosantosgui&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 - 👋 Olá, sou Guilherme dos Santos @Prosantosgui
