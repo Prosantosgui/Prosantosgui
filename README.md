@@ -11,7 +11,10 @@
 </code>
 
 <h2>🎖Github Stats</h2>
-<img src="{https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Prosantosgui}}">
+[![Prosantosgui](https://github-readme-stats.vercel.app/api?username=Prosantosgui&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Prosantosgui](https://github-readme-stats.vercel.app/api/top-langs/?username=Prosantosgui&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 👋 Olá, sou Guilherme dos Santos @Prosantosgui
 - 👀 Estou interessado em trabalhar e aprender mais sobre Java e Kotlin.
