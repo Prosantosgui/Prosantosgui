@@ -12,7 +12,7 @@ Reach me by any of these links
 <a href="https://www.linkedin.com/in/guilherme-dos-santoss/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="prfsantosgui546@gmail.com">
+<a href="mailto:prfsantosgui546@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
