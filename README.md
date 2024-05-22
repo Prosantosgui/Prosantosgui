@@ -1,5 +1,5 @@
 <h1>Hi👋, I am Guilherme </h1>
-<p>In the software development area as a Fullstack Developer. I am a music lover, bookstan plus currently enjoying using Java with Spring framework on my personal projects.</p>
+<p>In the software development area as a Fullstack Developer. I am a music lover, bookstan plus currently enjoying using Java with Spring framework and Angular on my personal projects.</p>
 
 <p>🐱‍🏍Love to see my projects gain life through programming</p>
 <p>🕺 Listen to music every single day, music is already a part of me</p>
